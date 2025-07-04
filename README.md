@@ -67,12 +67,7 @@
 - 🧩 Solving DSA problems & LeetCode challenges
 - 🚀 Participating in hackathons
 
----
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishal-tamhane&show_icons=true&theme=react" alt="Vishal's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishal-tamhane&theme=react" alt="Vishal's GitHub streak" />
-</p>
 
 <!--
 **vishal-tamhane/vishal-tamhane** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
