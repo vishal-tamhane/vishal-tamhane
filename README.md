@@ -27,7 +27,7 @@
 
 ## 🚀 About Me
 
-- 🎓 Final-year Computer Engineering student at **Dr. D. Y. Patil Institute of Technology, Pune**
+- 🎓 3 rd -year Computer Engineering student at **Dr. D. Y. Patil Institute of Technology, Pune**
 - 💼 Passionate about building robust, scalable, and user-centric web applications
 - 🧠 Lifelong learner, always exploring new frameworks, tools, and best practices
 - 🤝 Open to collaborating on innovative projects, hackathons, and community initiatives
