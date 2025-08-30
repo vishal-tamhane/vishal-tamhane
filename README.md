@@ -58,10 +58,11 @@
 
 ---
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishal-tamhane&show_icons=true&title_color=39FF14&icon_color=39FF14&text_color=E0E0E0&bg_color=30,0d0d0d,1a1a1a,0d1a0d&hide_border=true&border_radius=20&custom_title=🚀%20GitHub%20Performance" height="180"/>
-  
+ <img src="https://github-readme-stats.vercel.app/api?username=vishal-tamhane&show_icons=true&rank_icon=github&title_color=39FF14&icon_color=39FF14&text_color=E0E0E0&bg_color=30,0d0d0d,1a1a1a,0d1a0d&hide_border=true&border_radius=20&custom_title=🚀%20GitHub%20Performance" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=vishal-tamhane&background=0D1A0D&border_radius=20&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideNums=39FF14&currStreakNum=39FF14&sideLabels=E0E0E0&dates=AAAAAA&hide_border=true" height="180"/>
 </div>
+
+
 
 ---
 
