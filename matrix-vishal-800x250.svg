@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800" height="250" xmlns="http://www.w3.org/2000/svg" style="background: black;">
+  <defs>
+    <style>
+      .matrix-text { font-family: monospace; font-size: 18px; fill: #0F0; font-weight: bold; opacity: 0.9; }
+      .matrix-text-big { font-family: monospace; font-size: 28px; fill: #0F0; font-weight: bold; opacity: 1; }
+      .name-title { font-family: monospace; font-size: 48px; fill: white; font-weight: bold; }
+    </style>
+  </defs>
+  
+  <rect width="100%" height="100%" fill="black"/>
+  
+  <!-- Static White Name - Centered -->
+  <text x="400" y="125" class="name-title" text-anchor="middle" dominant-baseline="middle">Vishal Tamhane</text>
+  
+  <!-- Matrix falling symbols - 25 columns across 800px width -->
+  <g>
+    <!-- Column 1 -->
+    <text x="16" y="0" class="matrix-text">01<animate attributeName="y" values="-20;270" dur="3.2s" repeatCount="indefinite"/></text>
+    
+    <!-- Column 2 -->
+    <text x="48" y="-40" class="matrix-text-big">{}<animate attributeName="y" values="-40;270" dur="2.8s" repeatCount="indefinite"/></text>
+    
+    <!-- Column 3 -->
+    <text x="80" y="-15" class="matrix-text">[]<animate attributeName="y" values="-15;270" dur="3.5s" repeatCount="indefinite"/></text>
+    
+    <!-- Column 4 -->
+    <text x="112" y="-60" class="matrix-text">()<animate attributeName="y" values="-60;270" dur="2.4s" repeatCount="indefinite"/></text>
+    
+    <!-- Column 5 -->
+    <text x="144" y="-25" class="matrix-text-big">&lt;&gt;<animate attributeName="y" values="-25;270" dur="3.1s" repeatCount="indefinite"/></text>
+    
+    <!-- Column 6 -->
+    <text x="176" y="-50" class="matrix-text">;<animate attributeName="y" values="-50;270" dur="2.7s" repeatCount="indefinite"/></text>
+    
+    <!-- Column 7 -->
+    <text x="208" y="-10" class="matrix-text">:<animate attributeName="y" values="-10;270" dur="3.8s" repeatCount="indefinite"/></text>
+    
+    <!-- Column 8 -->
+    <text x="240" y="-35" class="matrix-text-big">=<animate attributeName="y" values="-35;270" dur="2.3s" repeatCount="indefinite"/></text>
+    
+    <!-- Column 9 -->
+    <text x="272" y="-20" class="matrix-text">+<animate attributeName="y" values="-20;270" dur="3.6s" repeatCount="indefinite"/></text>
+    
+    <!-- Column 10 -->
+    <text x="304" y="-45" class="matrix-text">-<animate attributeName="y" values="-45;270" dur="2.9s" repeatCount="indefinite"/></text>
+    
+    <!-- Column 11 -->
+    <text x="336" y="-5" class="matrix-text-big">*<animate attributeName="y" values="-5;270" dur="3.3s" repeatCount="indefinite"/></text>
+    
+    <!-- Column 12 -->
+    <text x="368" y="-55" class="matrix-text">/<animate attributeName="y" values="-55;270" dur="2.6s" repeatCount="indefinite"/></text>
+    
+    <!-- Column 13 -->
+    <text x="400" y="-30" class="matrix-text">%<animate attributeName="y" values="-30;270" dur="3.4s" repeatCount="indefinite"/></text>
+    
+    <!-- Column 14 -->
+    <text x="432" y="-15" class="matrix-text-big">$<animate attributeName="y" values="-15;270" dur="2.5s" repeatCount="indefinite"/></text>
+    
+    <!-- Column 15 -->
+    <text x="464" y="-40" class="matrix-text">#<animate attributeName="y" values="-40;270" dur="3.7s" repeatCount="indefinite"/></text>
+    
+    <!-- Column 16 -->
+    <text x="496" y="-20" class="matrix-text">@<animate attributeName="y" values="-20;270" dur="2.8s" repeatCount="indefinite"/></text>
+    
+    <!-- Column 17 -->
+    <text x="528" y="-50" class="matrix-text-big">!<animate attributeName="y" values="-50;270" dur="3.0s" repeatCount="indefinite"/></text>
+    
+    <!-- Column 18 -->
+    <text x="560" y="-10" class="matrix-text">?<animate attributeName="y" values="-10;270" dur="3.9s" repeatCount="indefinite"/></text>
+    
+    <!-- Column 19 -->
+    <text x="592" y="-35" class="matrix-text">^<animate attributeName="y" values="-35;270" dur="2.2s" repeatCount="indefinite"/></text>
+    
+    <!-- Column 20 -->
+    <text x="624" y="-25" class="matrix-text-big">&amp;<animate attributeName="y" values="-25;270" dur="3.2s" repeatCount="indefinite"/></text>
+    
+    <!-- Column 21 -->
+    <text x="656" y="-45" class="matrix-text">|<animate attributeName="y" values="-45;270" dur="2.7s" repeatCount="indefinite"/></text>
+    
+    <!-- Column 22 -->
+    <text x="688" y="-5" class="matrix-text">~<animate attributeName="y" values="-5;270" dur="3.5s" repeatCount="indefinite"/></text>
+    
+    <!-- Column 23 -->
+    <text x="720" y="-60" class="matrix-text-big">01<animate attributeName="y" values="-60;270" dur="2.4s" repeatCount="indefinite"/></text>
+    
+    <!-- Column 24 -->
+    <text x="752" y="-30" class="matrix-text">{}<animate attributeName="y" values="-30;270" dur="3.1s" repeatCount="indefinite"/></text>
+    
+    <!-- Column 25 -->
+    <text x="784" y="-15" class="matrix-text">[]<animate attributeName="y" values="-15;270" dur="3.6s" repeatCount="indefinite"/></text>
+  </g>
+</svg>
