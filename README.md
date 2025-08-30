@@ -4,6 +4,11 @@
 <p align="center">
   <img src="./coding-matrix.svg" alt="Coding Matrix Animation" />
 </p>
+<h1 align="center" style="font-weight:900; font-size:48px; color:#34ff00;">
+  Hey there 👋, <span style="color:#00eaff;">Vishal Tamhane</span> is here
+</h1>
+<br/>
+
 <div align="center">
   <a href="https://linkedin.com/in/vishal-tamhane-8229952b7" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -48,36 +53,15 @@
   <br/>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,vercel,figma,postman&perline=6" height="45"/>
 </div>
-
 ---
 
-## 🏆 Highlights
-
-- 🏅 **Hackathon Finalist** at multiple national-level events
-- 🚀 Built and deployed several full-stack projects (see [Portfolio](https://vishal-tamhane.github.io/Vishal-Portfolio-2/))
-- 📈 Active contributor to open-source and tech communities
-- 🏆 Consistent problem solver on [LeetCode](https://leetcode.com/u/vishal_tamhane/) and other coding platforms
 
 ---
-
-## 📫 Let's Connect
-
 <div align="center">
-  <a href="https://linkedin.com/in/vishal-tamhane-8229952b7" target="_blank">LinkedIn</a> |
-  <a href="https://github.com/vishal-tamhane" target="_blank">GitHub</a> |
-  <a href="https://vishal-tamhane.github.io/Vishal-Portfolio-2/" target="_blank">Portfolio</a> |
-  <a href="https://leetcode.com/u/vishal_tamhane/" target="_blank">LeetCode</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=vishal-tamhane&show_icons=true&title_color=39FF14&icon_color=39FF14&text_color=E0E0E0&bg_color=30,0d0d0d,1a1a1a,0d1a0d&hide_border=true&border_radius=20&custom_title=🚀%20GitHub%20Performance" height="180"/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=vishal-tamhane&background=0D1A0D&border_radius=20&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideNums=39FF14&currStreakNum=39FF14&sideLabels=E0E0E0&dates=AAAAAA&hide_border=true" height="180"/>
 </div>
-
----
-
-## ⚡ Fun Facts & Interests
-
-- 🧗‍♂️ Trekking & adventure sports
-- 🤖 Exploring AI, machine learning, and automation
-- 🧩 DSA & competitive coding
-- 🎨 UI/UX design and rapid prototyping
-- 🚀 Startup and hackathon enthusiast
 
 ---
 
