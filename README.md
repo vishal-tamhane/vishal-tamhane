@@ -66,5 +66,9 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF5722,0A66C2,FFA116&height=120&section=footer&text=Let%27s%20build%20something%20amazing!&fontSize=25&fontAlignY=30&fontColor=ffffff&animation=twinkling" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:000000,50:0f3d0f,100:00ff7f&height=120&text=Let%27s%20build%20something%20amazing!&fontSize=25&fontAlignY=30&fontColor=ffffff&animation=twinkling" alt="Footer"/>
 </div>
+
+
+
+
