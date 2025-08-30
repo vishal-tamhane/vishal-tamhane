@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2,FF5722,FFA116&height=220&section=header&text=Vishal%20Tamhane&fontSize=54&fontColor=ffffff&fontAlignY=40&animation=fadeIn" alt="Header"/>
  </div> -->
 <p align="center">
-  <img src="./matrix-vishal-800x250.svg" alt="Coding Matrix Animation" />
+  <img src="./matrix-vishal-fast.svg" alt="Coding Matrix Animation" />
 </p>
 <div align="center">
   <a href="https://linkedin.com/in/vishal-tamhane-8229952b7" target="_blank">
