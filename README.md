@@ -4,9 +4,9 @@
 <p align="center">
   <img src="./coding-matrix.svg" alt="Coding Matrix Animation" />
 </p>
-<h1 align="center" style="font-weight:900; font-size:48px; color:#34ff00;">
+<!-- <h1 align="center" style="font-weight:900; font-size:48px; color:#34ff00;">
   Hey there 👋, <span style="color:#00eaff;">Vishal Tamhane</span> is here
-</h1>
+</h1> -->
 <br/>
 
 <div align="center">
